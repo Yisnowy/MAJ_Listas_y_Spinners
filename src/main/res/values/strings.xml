@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MAJ_Spinners</string>
+    <string-array name="spinner_items">
+        <item>--------</item>
+        <item>USA</item>
+        <item>México</item>
+        <item>Brasil</item>
+        <item>France</item>
+        <item>Deutschland</item>
+        <item>Italia</item>
+    </string-array>
+
+</resources>
